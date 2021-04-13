@@ -1,16 +1,28 @@
-### Hi there 👋
-
-<!--
-**Toasty65/Toasty65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<p align="center"><img src="https://imgur.com/RHirf7B" width="100%" height="auto"></p>
 
 - 🔭 I’m currently working on ...
+  - [A Discord bot (Node.js)](https://github.com/Toasty65/Discord-Bot)
+  
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+  - JavaScript
+  - Node.js
+  - C#
+  
+- 🤔 I want to learn ...
+  - Game Development
+  - Python
+  - Git (Advanced)
+  - React & Angular
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Discord: **Toasty#6580**
+  - StackOverflow: [**Toasty**](https://stackoverflow.com/users/13685706/toasty?tab=profile)
+
+- ⚡ I like: ...
+  - Gaming
+  - Eating
+  - Sleeping
+  - Coding
+  - My gf <3
+  
+
