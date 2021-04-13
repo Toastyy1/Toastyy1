@@ -17,13 +17,6 @@
 - 📫 How to reach me: ...
   - Discord: **Toasty#6580**
   - StackOverflow: [**Toasty**](https://stackoverflow.com/users/13685706/toasty?tab=profile)
-
-- ⚡ I like: ...
-  - Gaming
-  - Eating
-  - Sleeping
-  - Coding
-  - My gf <3
   
   <h3 align="center">Used Languages and Tools:</h3>
   <p align="center"><b>Coming soon</b></p>
