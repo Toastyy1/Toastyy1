@@ -15,7 +15,7 @@
   - React & Angular
 
 - 📫 How to reach me: ...
-  - Discord: **Toasty#6580**
+  - Discord: **Toasty#6580** or my [**server**](https://discord.gg/gdvV7cpNbz)
   - StackOverflow: [**Toasty**](https://stackoverflow.com/users/13685706/toasty?tab=profile)
   
   <h3 align="center">Used Languages and Tools:</h3>
