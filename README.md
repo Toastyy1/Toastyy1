@@ -9,6 +9,7 @@
   - C#
   
 - 🤔 I want to learn ...
+  - TypeScript
   - Game Development
   - Python
   - Git (Advanced)
