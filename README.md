@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/RHirf7B.png?1" width="100%" height="auto"></p>
+<p align="center"><img src="https://i.imgur.com/Y4q26oH.png" width="100%" height="auto"></p>
 
 - 🔭 I’m currently working on ...
   - [A Discord bot (Node.js)](https://github.com/Toasty65/Discord-Bot)
