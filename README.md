@@ -1,8 +1,8 @@
 <p align="center"><img src="https://i.imgur.com/Y4q26oH.png" width="100%" height="auto"></p>
-<p>
-  <a><img src="https://github-readme-stats.vercel.app/api?username=Toasty65&show_icons=true&theme=tokyonight" height="196"></a>
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" height="196" width="48%"></a>
-</p>
+<div align="center">
+  <a><img src="https://github-readme-stats.vercel.app/api?username=Toasty65&show_icons=true&theme=tokyonight"></a>
+  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight"></a>
+</div>
 
 - 🔭 I’m currently working on ...
   - [A Discord bot (Node.js)](https://github.com/Toasty65/Discord-Bot)
