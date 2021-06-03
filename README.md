@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/Y4q26oH.png" width="100%" height="auto"></p>
 <p>
   <a><img src="https://github-readme-stats.vercel.app/api?username=Toasty65&show_icons=true&theme=tokyonight" height="200" width="52%"></a>
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" height="200" width="47%"></a>
+  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" height="200" width="50%"></a>
 </p>
 
 - 🔭 I’m currently working on ...
