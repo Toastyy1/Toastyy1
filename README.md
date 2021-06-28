@@ -44,7 +44,7 @@
   <p align="center">
   I'm hosting all my <b>Discord bots</b>, game servers or even a own TeamSpeak-Server on <b><a href="https://www.netcup.de/">NetCup</a></b>
   <br/>
-  <i>Currently I have the <a href="">VPS 200 G8</a> (cheapest one) and it runs 3 Discord bots with no problems!</i>
+  <i>Currently I have the <a href="https://www.netcup.eu/bestellen/produkt.php?produkt=2005">VPS 200 G8</a> (cheapest one) and it runs 3 Discord bots with no problems!</i>
   <br/>
   <br/>
   <a href="https://www.netcup.eu" target="_blank"><img src="https://www.netcup.de/static/assets/images/promotion/netcup-setC-180x150.png" width="180" height="150" alt="netcup.de" /></a>
