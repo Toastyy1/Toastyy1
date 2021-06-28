@@ -26,18 +26,21 @@
   
   <h3 align="center">Used Languages and Tools:</h3>
   <p align="center">
-      <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="/icons/javascript.png"></a>
-      <a href="https://nodejs.org/en/about/"><img src="/icons/node-js.png"></a>
-      <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="/icons/csharp.png"></a>
-      <a href="https://visualstudio.microsoft.com/vs/"><img src="/icons/visual-studio.png"></a>
-      <a href="https://code.visualstudio.com/"><img src="/icons/visual-studio-code.png"></a>
-      <a href="https://git-scm.com/about"><img src="/icons/git.png"></a>
-      <a href="https://github.com/"><img src="/icons/github.png"></a>
-      <a href="https://www.gitkraken.com/"><img src="/icons/gitkraken.png"></a>
-      <a href="https://stackoverflow.com/"><img src="/icons/stack-overflow.png"></a>
+      <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="/icons/javascript.png" alt="JavaScript logo"></a>
+      <a href="https://nodejs.org/en/about/"><img src="/icons/node-js.png" alt="Node.js logo"></a>
+      <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="/icons/csharp.png" alt="C# logo"></a>
+      <a href="https://visualstudio.microsoft.com/vs/"><img src="/icons/visual-studio.png" alt="Visual Studio logo"></a>
+      <a href="https://code.visualstudio.com/"><img src="/icons/visual-studio-code.png" alt="VS Code logo"></a>
+      <a href="https://git-scm.com/about"><img src="/icons/git.png" alt="Git logo"></a>
+      <a href="https://github.com/"><img src="/icons/github.png" alt="GitHub logo"></a>
+      <a href="https://www.gitkraken.com/"><img src="/icons/gitkraken.png" alt="GitKraken logo"></a>
+      <a href="https://stackoverflow.com/"><img src="/icons/stack-overflow.png" alt="StackOverflow logo"></a>
   </p>
   
   <h3 align="center"> Bot hosting: </h3>
+  <p align="center">
+  <a href="https://www.netcup.de/"><img src="/icons/netcup_logo.png" alt="Netcup logo" height="150px"></a>
+  </p>
   <p align="center">
   I'm hosting all my <b>Discord bots</b>, game servers or even a own TeamSpeak-Server on <b><a href="https://www.netcup.de/">NetCup</a></b>
   <br/>
