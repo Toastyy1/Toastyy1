@@ -20,7 +20,7 @@
   - React & Angular
 
 - 📫 How to reach me: ...
-  - Discord: **Toasty#1999** or my [**server**](https://discord.gg/gdvV7cpNbz)
+  - Discord: **Toasty#1999** or my [**server**](http://fallen-phoenix.games)
   - StackOverflow: [**Toasty**](https://stackoverflow.com/users/13685706/toasty?tab=profile)
   
   
@@ -39,7 +39,7 @@
   
   <h3 align="center"> Bot hosting: </h3>
   <p align="center">
-  <a href="https://www.netcup.de/"><img src="/icons/netcup_logo.png" alt="Netcup logo" height="150px"></a>
+  <a href="https://www.netcup.eu"><img src="/icons/netcup_logo.png" alt="Netcup logo" height="150px"></a>
   </p>
   <p align="center">
   I'm hosting all my <b>Discord bots</b>, game servers or even a own TeamSpeak-Server on <b><a href="https://www.netcup.de/">NetCup</a></b>
@@ -47,7 +47,7 @@
   <i>Currently I have the <a href="">VPS 200 G8</a> (cheapest one) and it runs 3 Discord bots with no problems!</i>
   <br/>
   <br/>
-  <a href="https://www.netcup.de" target="_blank"><img src="https://www.netcup.de/static/assets/images/promotion/netcup-setC-180x150.png" width="180" height="150" alt="netcup.de" /></a>
+  <a href="https://www.netcup.eu" target="_blank"><img src="https://www.netcup.de/static/assets/images/promotion/netcup-setC-180x150.png" width="180" height="150" alt="netcup.de" /></a>
   <br/>
   Message me on <b>Discord (Toasty#1999)</b> if you want vouchers up to 30%. <b>But thats not all!</b> New customers will also receive a 5€ voucher on all products except domains, but only if you DM me ;D
   </p>
