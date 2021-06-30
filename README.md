@@ -5,7 +5,8 @@
 </div>
 
 - 🔭 I’m currently working on ...
-  - [A Discord bot (Node.js)](https://github.com/Toasty65/Discord-Bot)
+  - [My 'main' Discord bot](https://github.com/Toasty65/Discord-Bot)
+  - URL-Validator Bot
   
 - 🌱 I’m currently learning ...
   - JavaScript
@@ -22,6 +23,7 @@
 - 📫 How to reach me: ...
   - Discord: **Toasty#1999** or my [**server**](http://fallen-phoenix.games)
   - StackOverflow: [**Toasty**](https://stackoverflow.com/users/13685706/toasty?tab=profile)
+  - [E-Mail](mailto:toasty65.dev@gmail.com)
   
   
   <h3 align="center">Used Languages and Tools:</h3>
