@@ -50,5 +50,5 @@
   <a href="https://www.netcup.eu" target="_blank"><img src="https://www.netcup.de/static/assets/images/promotion/netcup-setC-728x90.png" width="728" height="90" alt="netcup.de" /></a> 
   <br/>
   <br/>
-  Message me on <b>Discord (Toasty#1999)</b> if you want vouchers up to 30%. <b>But thats not all!</b> New customers will also receive a 5€ voucher on all products except domains, but only if you DM me ;D
-  </p>
+  Message me on <b>Discord (Toasty#1999)</b> if you want vouchers up to 30%. <b>But thats not all!</b> New customers will also receive a 5€ voucher on all products except domains, so what are you waiting for?
+</p>
