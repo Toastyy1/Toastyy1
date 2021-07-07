@@ -31,7 +31,7 @@
       <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="/icons/javascript.png" alt="JavaScript logo"></a>
       <a href="https://nodejs.org/en/about/"><img src="/icons/node-js.png" alt="Node.js logo"></a>
       <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="/icons/csharp.png" alt="C# logo"></a>
-      <a href="https://visualstudio.microsoft.com/vs/"><img src="/icons/visual-studio.png" alt="Visual Studio logo"></a>
+      <a href="https://visualstudio.microsoft.com/vs/"><img src="/icons/visual-stuido.png" alt="Visual Studio logo"></a>
       <a href="https://code.visualstudio.com/"><img src="/icons/visual-studio-code.png" alt="VS Code logo"></a>
       <a href="https://git-scm.com/about"><img src="/icons/git.png" alt="Git logo"></a>
       <a href="https://github.com/"><img src="/icons/github.png" alt="GitHub logo"></a>
