@@ -7,17 +7,20 @@
 - 🔭 I’m currently working on ...
   - [My 'main' Discord bot](https://github.com/Toasty65/Discord-Bot)
   - URL-Validator Bot
+  - Discord Server-Stats Bot
+  - Own Minecraft mods
   
 - 🌱 I’m currently learning ...
   - JavaScript
   - Node.js
   - C#
+  - Java (For Minecraft Mods)
   
 - 🤔 I want to learn ...
   - TypeScript
   - Game Development
   - Python
-  - Git (Advanced)
+  - Advanced Git
   - React & Angular
 
 - 📫 How to reach me: ...
