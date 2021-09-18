@@ -5,8 +5,6 @@
 </div>
 
 - 🔭 I’m currently working on ...
-  - [My 'main' Discord bot](https://github.com/Toasty65/Discord-Bot)
-  - URL-Validator Bot
   - Discord Server-Stats Bot
   - Own Minecraft mods
   
