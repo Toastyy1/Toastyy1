@@ -5,11 +5,16 @@
 </div>
 
 - 🔭 I’m currently working on ...
-  - Discord Server-Stats Bot
+  - Own Apps
   - Own Minecraft mods
-  
+  - [Checksum validator (C#)](https://github.com/Toasty65/Checksum-Validator)
+
+- ✅ Done projects
+  - Discord Server-Stats Bot
+
 - 🌱 I’m currently learning ...
   - JavaScript
+  - Swift (iOS)
   - Node.js
   - C#
   - Java (For Minecraft Mods)
