@@ -39,6 +39,7 @@
       <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="/icons/csharp.png" alt="C# logo"></a>
       <a href="https://visualstudio.microsoft.com/vs/"><img src="/icons/visual-stuido.png" alt="Visual Studio logo"></a>
       <a href="https://code.visualstudio.com/"><img src="/icons/visual-studio-code.png" alt="VS Code logo"></a>
+      <a href="https://developer.apple.com/xcode/"><img src="/icons/Xcode_icon.png" alt="Xcode logo"></a>
       <a href="https://git-scm.com/about"><img src="/icons/git.png" alt="Git logo"></a>
       <a href="https://github.com/"><img src="/icons/github.png" alt="GitHub logo"></a>
       <a href="https://www.gitkraken.com/"><img src="/icons/gitkraken.png" alt="GitKraken logo"></a>
