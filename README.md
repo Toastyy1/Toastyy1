@@ -7,10 +7,12 @@
 - 🔭 I’m currently working on ...
   - Own Apps
   - Own Minecraft mods
+  - Discord Captcha Bot
   - [Checksum validator (C#)](https://github.com/Toasty65/Checksum-Validator)
 
 - ✅ Done projects
   - Discord Server-Stats Bot
+  - [Discord Bot Template](https://github.com/Toasty65/Discord-Bot-Template)
 
 - 🌱 I’m currently learning ...
   - JavaScript
