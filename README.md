@@ -5,10 +5,8 @@
 </div>
 
 - 🔭 I’m currently working on ...
-  - Own Apps
-  - Own Minecraft mods
-  - Discord Captcha Bot
-  - Discord Embed Bot
+  - Discord Captcha Bot (halted)
+  - Discord Embed Bot (halted)
   - [Discord Bot Template](https://github.com/Toasty65/Discord-Bot-Template)
   - [Checksum validator (C#)](https://github.com/Toasty65/Checksum-Validator)
 
@@ -17,14 +15,16 @@
 
 - 🌱 I’m currently learning ...
   - JavaScript
+  - C++ (primarily for game development)
   - Swift (iOS)
   - Node.js
   - C#
   - Java (For Minecraft Mods)
   
 - 🤔 I want to learn ...
-  - TypeScript
+  - Creating own Minecraft Mods
   - Game Development
+  - TypeScript
   - Python
   - Advanced Git
   - React & Angular
