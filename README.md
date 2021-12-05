@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/Y4q26oH.png" width="100%" height="auto"></p>
 <div align="center">
-  <a><img src="https://github-readme-stats.vercel.app/api?username=Toasty65&show_icons=true&theme=tokyonight" width="60%"></a>
+  <a><img src="https://github-readme-stats.vercel.app/api?username=Toasty65&show_icons=true&theme=tokyonight" width="50%"></a>
   <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight"></a>
 </div>
 
