@@ -46,16 +46,11 @@
   
   <h3 align="center"> Bot hosting: </h3>
   <p align="center">
-  <a href="https://www.netcup.eu"><img src="/icons/netcup_logo.png" alt="Netcup logo" height="150px"></a>
+    <a href="https://www.digitalocean.com/?refcode=81694f88aa62&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg" alt="DigitalOcean Referral Badge" height="100px" /></a>
   </p>
-  <p align="center">
-  I'm hosting all my <b>Discord bots</b>, game servers or even a own TeamSpeak-Server on <b><a href="https://www.netcup.de/">NetCup</a></b>
-  <br/>
-  <i>Currently I have the <a href="https://www.netcup.eu/bestellen/produkt.php?produkt=2005">VPS 200 G8</a> (cheapest one) and it runs 3 Discord bots with no problems!</i>
-  <br/>
-  <br/>
-  <a href="https://www.netcup.eu" target="_blank"><img src="https://www.netcup.de/static/assets/images/promotion/netcup-setC-728x90.png" width="728" height="90" alt="netcup.de" /></a> 
-  <br/>
-  <br/>
-  Message me on <b>Discord (Toasty#1999)</b> if you want vouchers up to 30%. <b>But thats not all!</b> New customers will also receive a 5€ voucher on all products except domains, so what are you waiting for?
-</p>
+    <p align="center">
+    I'm hosting all my <b>Discord bots</b>, game servers or even a own TeamSpeak-Server on <b><a href="www.digitalocean.com">DigitalOcean</a></b>
+    <br/>
+    <br/>
+  Feel free using my <a href="https://m.do.co/c/81694f88aa62">referral link</a> when buying a server there :)
+  </p>
