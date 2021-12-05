@@ -5,29 +5,24 @@
 </div>
 
 - 🔭 I’m currently working on ...
-  - Discord Captcha Bot (halted)
-  - Discord Embed Bot (halted)
-  - [Discord Bot Template](https://github.com/Toasty65/Discord-Bot-Template)
   - [Checksum validator (C#)](https://github.com/Toasty65/Checksum-Validator)
 
 - ✅ Done projects
   - Discord Server-Stats Bot
+  - [Discord Bot Template](https://github.com/Toasty65/Discord-Bot-Template)
 
 - 🌱 I’m currently learning ...
-  - JavaScript
+  - C#
   - C++ (primarily for game development)
   - Swift (iOS)
-  - Node.js
-  - C#
   - Java (For Minecraft Mods)
   
 - 🤔 I want to learn ...
-  - Creating own Minecraft Mods
   - Game Development
   - TypeScript
   - Python
   - Advanced Git
-  - React & Angular
+  - Frameworks like React & Angular
 
 - 📫 How to reach me: ...
   - Discord: **Toasty#1999** or my [**server**](http://fallen-phoenix.games)
