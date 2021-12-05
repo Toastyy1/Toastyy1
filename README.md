@@ -12,10 +12,10 @@
   - [Discord Bot Template](https://github.com/Toasty65/Discord-Bot-Template)
 
 - 🌱 I’m currently learning ...
-  - C#
+  - C# (desktop applications & game development)
   - C++ (primarily for game development)
   - Swift (iOS)
-  - Java (For Minecraft Mods)
+  - Java (for Minecraft mods)
   
 - 🤔 I want to learn ...
   - Game Development
