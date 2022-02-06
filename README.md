@@ -65,13 +65,13 @@ var Developer = new {
   <img  src="https://activity-graph.herokuapp.com/graph?username=toasty65&theme=react-dark&hide_border=true&hide_title=false" alt="Activity graph">
 </p>
 <p align="left">
-  <img  src="https://github-profile-trophy.vercel.app/?username=toasty65&theme=onestar&no-frame=true&margin-w=50&row=2&column=3" alt="Trophies">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=toasty65&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="">
+  <img  src="https://github-profile-trophy.vercel.app/?username=toasty65&theme=onestar&no-frame=true&margin-w=50&row=2&column=3" width="40%" alt="Trophies">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=toasty65&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D" width="40%" alt="Streaks">
 </p>
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=Toasty65&show_icons=true&theme=tokyonight" width="40%" alt="GitHub Stats">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" width="40%" alt="Most used languages" height="195px;">
+<img  src="https://github-readme-stats.vercel.app/api?username=Toasty65&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="Most used languages" height="195px;">
 </p>
 
 # Get in touch 💬 #
