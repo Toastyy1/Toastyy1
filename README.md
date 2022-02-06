@@ -70,8 +70,8 @@ var Developer = new {
 </p>
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=Toasty65&show_icons=true&theme=tokyonight" width="45%" alt="GitHub Stats">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" width="54%" alt="Most used languages" height="195px;">
+<img  src="https://github-readme-stats.vercel.app/api?username=Toasty65&show_icons=true&theme=tokyonight" width="49%" alt="GitHub Stats">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" width="50%" alt="Most used languages" height="195px;">
 </p>
 
 # Get in touch 💬 #
