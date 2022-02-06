@@ -1,56 +1,86 @@
-<p align="center"><img src="https://i.imgur.com/Y4q26oH.png" width="100%" height="auto"></p>
-<div align="center">
-  <a><img src="https://github-readme-stats.vercel.app/api?username=Toasty65&show_icons=true&theme=tokyonight" width="50%"></a>
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight"></a>
-</div>
+[<img align='right' src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="210" alt="giphy">](https://t.me/voko_aleksey)
 
-- 🔭 I’m currently working on ...
-  - [Checksum validator (C#)](https://github.com/Toasty65/Checksum-Validator)
+# Hey! 👋 I'm Toasty :) #
 
-- ✅ Done projects
-  - Discord Server-Stats Bot
-  - [Discord Bot Template](https://github.com/Toasty65/Discord-Bot-Template)
+### Used languages 🌐
+[<img src="/icons/javascript.png" alt="Javascript" height="50">](https://en.wikipedia.org/wiki/JavaScript)
+[<img src="/icons/node-js.png" alt="Node.js" height="50">](https://nodejs.org/en/about/)
+[<img src="/icons/csharp.png" alt="CSharp" height="50">](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+[<img src="/icons/java.png" alt="Swift" height="50">](https://en.wikipedia.org/wiki/Java_(programming_language))
+[<img src="/icons/swift.png" alt="Java" height="50">](https://developer.apple.com/swift/)
 
-- 🌱 I’m currently learning ...
-  - C# (desktop applications & game development)
-  - C++ (primarily for game development)
-  - Swift (iOS)
-  - Java (for Minecraft mods)
-  
-- 🤔 I want to learn ...
-  - Game Development
-  - TypeScript
-  - Python
-  - Advanced Git
-  - Frameworks like React & Angular
+### Used tools 🛠️
 
-- 📫 How to reach me: ...
-  - Discord: **Toasty#1999** or my [**server**](http://fallen-phoenix.games)
-  - StackOverflow: [**Toasty**](https://stackoverflow.com/users/13685706/toasty?tab=profile)
-  - [E-Mail](mailto:toasty65.dev@gmail.com)
-  
-  
-  <h3 align="center">Used Languages and Tools:</h3>
-  <p align="center">
-      <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="/icons/javascript.png" alt="JavaScript logo"></a>
-      <a href="https://nodejs.org/en/about/"><img src="/icons/node-js.png" alt="Node.js logo"></a>
-      <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="/icons/csharp.png" alt="C# logo"></a>
-      <a href="https://visualstudio.microsoft.com/vs/"><img src="/icons/visual-stuido.png" alt="Visual Studio logo"></a>
-      <a href="https://code.visualstudio.com/"><img src="/icons/visual-studio-code.png" alt="VS Code logo"></a>
-      <a href="https://developer.apple.com/xcode/"><img src="/icons/Xcode_icon.png" alt="Xcode logo"></a>
-      <a href="https://git-scm.com/about"><img src="/icons/git.png" alt="Git logo"></a>
-      <a href="https://github.com/"><img src="/icons/github.png" alt="GitHub logo"></a>
-      <a href="https://www.gitkraken.com/"><img src="/icons/gitkraken.png" alt="GitKraken logo"></a>
-      <a href="https://stackoverflow.com/"><img src="/icons/stack-overflow.png" alt="StackOverflow logo"></a>
-  </p>
-  
-  <h3 align="center"> Bot hosting: </h3>
-  <p align="center">
-    <a href="https://www.digitalocean.com/?refcode=81694f88aa62&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg" alt="DigitalOcean Referral Badge" height="100px" /></a>
-  </p>
-    <p align="center">
-    I'm hosting all my <b>Discord bots</b>, game servers or even a own TeamSpeak-Server on <b><a href="www.digitalocean.com">DigitalOcean</a></b>
-    <br/>
-    <br/>
-  Feel free using my <a href="https://m.do.co/c/81694f88aa62">referral link</a> when buying a server there :)
-  </p>
+[<img src="/icons/visual-stuido.png" alt="Visual Studio" height="50">](https://visualstudio.microsoft.com/vs/)
+[<img src="/icons/visual-studio-code.png" alt="Visual Studio Code" height="50">](https://code.visualstudio.com/)
+[<img src="/icons/Xcode_icon.png" alt="Xcode" height="50">](https://developer.apple.com/xcode/)
+[<img src="/icons/git.png" alt="Git" height="50">](https://git-scm.com/about)
+[<img src="/icons/github.png" alt="GitHub" height="50">](https://github.com/)
+[<img src="/icons/gitkraken.png" alt="GitKraken" height="50">](https://www.gitkraken.com/)
+[<img src="/icons/stack-overflow.png" alt="StackOverflow" height="50">](https://stackoverflow.com/)
+
+# About me 👨‍💻 #
+
+```csharp
+var Developer = new {
+    Name = "Marcel",
+    Alias = "Toasty",
+    Age = 22,
+    Location = Country.Germany,
+    
+    Skills = [
+        Language.Csharp,
+        Language.Javascript,
+        Language.Java,
+        Language.Nodejs,
+        Language.Html,        
+        ALittleBitOf.Swift,
+        Database.MsSql,
+    ],
+    
+    CurrentFocus = Apprenticeship.Graduate,
+    
+    DoneProjects = [
+        Project.Discord_ServerStats_Bot,
+        Project.Discord_Bot_Template,
+    ],
+    CurrentlyLearning = [
+        Language.Cpp,
+        Language.Swift,
+    ],
+    WantToLearn = [
+        Language.Python,
+        Language.TypeScript,
+        GameDevelopment.Unity,
+        Framework.React,
+        Framework.Angular,
+        Tools.Git,
+    ]
+}
+```
+
+# 📊 Statistics & Trophies 🏆 #
+
+<p align="center">
+  <img  src="https://activity-graph.herokuapp.com/graph?username=toasty65&theme=react-dark&hide_border=true&hide_title=false" alt="Activity graph">
+</p>
+<p align="left">
+  <img  src="https://github-profile-trophy.vercel.app/?username=toasty65&theme=onestar&no-frame=true&margin-w=50&row=2&column=3" alt="Trophies">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=toasty65&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="">
+</p>
+
+<p align="center">
+<img  src="https://github-readme-stats.vercel.app/api?username=Toasty65&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="Most used languages" height="195px;">
+</p>
+
+# Get in touch 💬 #
+[<img src="/icons/stack-overflow.png" alt="StackOverflow Profile" height="50" align="left">](https://stackoverflow.com/users/13685706/toasty?tab=profile)
+[<img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="Discord" height="50" >](https://discord.gg/d73MzMYgK6)
+[<img src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/64/000000/external-email-interface-kiranshastry-lineal-kiranshastry.png" alt="Email" height="50" align="right">](mailto:toasty65.dev@gmail.com)
+
+# Support #
+<p align="center">
+<a href="https://www.buymeacoffee.com/asd"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="BuyMeACoffee"></a>
+<a href="https://ko-fi.com/L4L0ADBNS"><img src="https://cdn.ko-fi.com/cdn/kofi2.png?v=3" alt="Buy me a coffee at ko-fi" height="50" width="210"></a>
+</p>
