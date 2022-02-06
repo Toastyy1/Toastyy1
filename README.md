@@ -65,7 +65,7 @@ var Developer = new {
   <img  src="https://activity-graph.herokuapp.com/graph?username=toasty65&theme=react-dark&hide_border=true&hide_title=false" alt="Activity graph">
 </p>
 <p align="left">
-  <img  src="https://github-profile-trophy.vercel.app/?username=toasty65&theme=onestar&no-frame=true&margin-w=50&row=2&column=3" width="40%" alt="Trophies">
+  <img  src="https://github-profile-trophy.vercel.app/?username=toasty65&theme=onestar&no-frame=true&margin-w=50&row=2&column=3" width="50%" alt="Trophies">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=toasty65&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D" width="50%" alt="Streaks">
 </p>
 
