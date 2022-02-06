@@ -70,13 +70,13 @@ var Developer = new {
 </p>
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=Toasty65&show_icons=true&theme=tokyonight" width="55%" alt="GitHub Stats">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" width="40%" alt="Most used languages" height="195px;">
+<img  src="https://github-readme-stats.vercel.app/api?username=Toasty65&show_icons=true&theme=tokyonight" width="54%" alt="GitHub Stats">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" width="41%" alt="Most used languages" height="195px;">
 </p>
 
 # Get in touch 💬 #
 [<img src="/icons/stack-overflow.png" alt="StackOverflow Profile" height="50" align="left">](https://stackoverflow.com/users/13685706/toasty?tab=profile)
-[<img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="Discord" height="50" >](https://discord.gg/d73MzMYgK6)
+[<img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="Discord" height="50">](https://discord.gg/d73MzMYgK6)
 [<img src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/64/000000/external-email-interface-kiranshastry-lineal-kiranshastry.png" alt="Email" height="50" align="right">](mailto:toasty65.dev@gmail.com)
 
 # Support #
