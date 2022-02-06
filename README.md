@@ -66,7 +66,7 @@ var Developer = new {
 </p>
 <p align="left">
   <img  src="https://github-profile-trophy.vercel.app/?username=toasty65&theme=onestar&no-frame=true&margin-w=50&row=2&column=3" width="45%" alt="Trophies">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=toasty65&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D" width="50%" alt="Streaks">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=toasty65&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D" width="52%" alt="Streaks">
 </p>
 
 <p align="center">
