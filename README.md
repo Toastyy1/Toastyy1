@@ -71,7 +71,7 @@ var Developer = new {
 
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=Toasty65&show_icons=true&theme=tokyonight" width="54%" alt="GitHub Stats">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" width="41%" alt="Most used languages" height="195px;">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" width="43%" alt="Most used languages" height="195px;">
 </p>
 
 # Get in touch 💬 #
