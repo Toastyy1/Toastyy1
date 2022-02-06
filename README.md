@@ -1,4 +1,4 @@
-[<img align='right' src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="210" alt="giphy">](https://t.me/voko_aleksey)
+[<img align='right' src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="210" alt="giphy">]()
 
 # Hey! 👋 I'm Toasty :) #
 
