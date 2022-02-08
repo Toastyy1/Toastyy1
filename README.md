@@ -69,9 +69,9 @@ var Developer = new {
   <img src="http://github-readme-streak-stats.herokuapp.com?user=toasty65&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D"  alt="Streaks" />
 </p>
 
-<p align="center" style="width: 100%;">
-<img  src="https://github-readme-stats.vercel.app/api?username=Toasty65&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="Most used languages" height="195px;" />
+<p align="center">
+<img width="50%" height="100%" src="https://github-readme-stats.vercel.app/api?username=Toasty65&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img width="40%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="Most used languages" height="195px;" />
 </p>
 
 # Get in touch 💬 #
