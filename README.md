@@ -1,23 +1,23 @@
-<img align='right' src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="210" alt="giphy">
+<img align='right' src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="210" alt="giphy" />
 
 # Hey! 👋 I'm Toasty :) #
 
 ### Used languages 🌐
-[<img src="/icons/javascript.png" alt="Javascript" height="50">](https://en.wikipedia.org/wiki/JavaScript)
-[<img src="/icons/node-js.png" alt="Node.js" height="50">](https://nodejs.org/en/about/)
-[<img src="/icons/csharp.png" alt="CSharp" height="50">](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
-[<img src="/icons/java.png" alt="Swift" height="50">](https://en.wikipedia.org/wiki/Java_(programming_language))
-[<img src="/icons/swift.png" alt="Java" height="50">](https://developer.apple.com/swift/)
+[<img src="/icons/javascript.png" alt="Javascript" height="50" />](https://en.wikipedia.org/wiki/JavaScript)
+[<img src="/icons/node-js.png" alt="Node.js" height="50" />](https://nodejs.org/en/about/)
+[<img src="/icons/csharp.png" alt="CSharp" height="50" />](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+[<img src="/icons/java.png" alt="Swift" height="50" />](https://en.wikipedia.org/wiki/Java_(programming_language))
+[<img src="/icons/swift.png" alt="Java" height="50" />](https://developer.apple.com/swift/)
 
 ### Used tools 🛠️
 
-[<img src="/icons/visual-stuido.png" alt="Visual Studio" height="50">](https://visualstudio.microsoft.com/vs/)
-[<img src="/icons/visual-studio-code.png" alt="Visual Studio Code" height="50">](https://code.visualstudio.com/)
-[<img src="/icons/Xcode_icon.png" alt="Xcode" height="50">](https://developer.apple.com/xcode/)
-[<img src="/icons/git.png" alt="Git" height="50">](https://git-scm.com/about)
-[<img src="/icons/github.png" alt="GitHub" height="50">](https://github.com/)
-[<img src="/icons/gitkraken.png" alt="GitKraken" height="50">](https://www.gitkraken.com/)
-[<img src="/icons/stack-overflow.png" alt="StackOverflow" height="50">](https://stackoverflow.com/)
+[<img src="/icons/visual-stuido.png" alt="Visual Studio" height="50" />](https://visualstudio.microsoft.com/vs/)
+[<img src="/icons/visual-studio-code.png" alt="Visual Studio Code" height="50" >](https://code.visualstudio.com/)
+[<img src="/icons/Xcode_icon.png" alt="Xcode" height="50" />](https://developer.apple.com/xcode/)
+[<img src="/icons/git.png" alt="Git" height="50" />](https://git-scm.com/about)
+[<img src="/icons/github.png" alt="GitHub" height="50" />](https://github.com/)
+[<img src="/icons/gitkraken.png" alt="GitKraken" height="50" />](https://www.gitkraken.com/)
+[<img src="/icons/stack-overflow.png" alt="StackOverflow" height="50" />](https://stackoverflow.com/)
 
 # About me 👨‍💻 #
 
@@ -62,22 +62,24 @@ var Developer = new {
 # 📊 Statistics & Trophies 🏆 #
 
 <p align="center">
-  <img  src="https://activity-graph.herokuapp.com/graph?username=toasty65&theme=react-dark&hide_border=true&hide_title=false" alt="Activity graph">
+  <img  src="https://activity-graph.herokuapp.com/graph?username=toasty65&theme=react-dark&hide_border=true&hide_title=false" alt="Activity graph" />
 </p>
 <p align="left">
-  <img  src="https://github-profile-trophy.vercel.app/?username=toasty65&theme=onestar&no-frame=true&margin-w=50&row=2&column=3" width="45%" alt="Trophies">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=toasty65&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D" width="54%" alt="Streaks">
+  <img  src="https://github-profile-trophy.vercel.app/?username=toasty65&theme=onestar&no-frame=true&margin-w=50&row=2&column=3"  alt="Trophies" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=toasty65&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D"  alt="Streaks" />
 </p>
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=Toasty65&show_icons=true&theme=tokyonight" width="54%" alt="GitHub Stats">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" width="41%" alt="Most used languages" height="195px;">
+<img  src="https://github-readme-stats.vercel.app/api?username=Toasty65&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="Most used languages" height="195px;" />
 </p>
 
 # Get in touch 💬 #
-[<img src="/icons/stack-overflow.png" alt="StackOverflow Profile" height="50" align="left">](https://stackoverflow.com/users/13685706/toasty?tab=profile)
-[<img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="Discord" height="50">](https://discord.gg/d73MzMYgK6)
-[<img src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/64/000000/external-email-interface-kiranshastry-lineal-kiranshastry.png" alt="Email" height="50" align="right">](mailto:toasty65.dev@gmail.com)
+<p align="center">
+    <a href="https://stackoverflow.com/users/13685706/toasty?tab=profile"><img src="/icons/stack-overflow.png" alt="StackOverflow Profile" height="50" /></a>
+    <a href="https://discord.gg/d73MzMYgK6"><img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="Discord" height="50" /></a>
+    <a href="mailto:toasty65.dev@gmail.com"><img src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/64/000000/external-email-interface-kiranshastry-lineal-kiranshastry.png" alt="Email" height="50" /></a>
+</p>
 
 # Support #
 <p align="center">
