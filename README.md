@@ -70,7 +70,7 @@ var Developer = new {
 </p>
 
 <p align="center">
-<img width="55%" height="100%" src="https://github-readme-stats.vercel.app/api?username=Toasty65&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img width="54%" height="100%" src="https://github-readme-stats.vercel.app/api?username=Toasty65&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 <img width="44%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="Most used languages" height="195px;" />
 </p>
 
