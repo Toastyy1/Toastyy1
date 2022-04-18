@@ -43,6 +43,7 @@ var Developer = new {
     DoneProjects = [
         Project.Discord_ServerStats_Bot,
         Project.Discord_Bot_Template,
+        Project.Discord_Bot_CovidStatistics
     ],
     CurrentlyLearning = [
         Language.Cpp,
@@ -54,7 +55,7 @@ var Developer = new {
         GameDevelopment.Unity,
         Framework.React,
         Framework.Angular,
-        Tools.Git,
+        Tools.Git.Advanced,
     ]
 }
 ```
