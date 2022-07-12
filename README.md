@@ -18,6 +18,7 @@
 [<img src="/icons/github.png" alt="GitHub" height="50" />](https://github.com/)
 [<img src="/icons/gitkraken.png" alt="GitKraken" height="50" />](https://www.gitkraken.com/)
 [<img src="/icons/stack-overflow.png" alt="StackOverflow" height="50" />](https://stackoverflow.com/)
+[<img src="/icons/docker.png" alt="Docker" height="50" />](https://www.docker.com/)
 
 # About me 👨‍💻 #
 
