@@ -84,7 +84,4 @@ var Developer = new {
 </p>
 
 # Support #
-<p align="center">
-<a href="https://www.buymeacoffee.com/asd"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="BuyMeACoffee"></a>
-<a href="https://ko-fi.com/L4L0ADBNS"><img src="https://cdn.ko-fi.com/cdn/kofi2.png?v=3" alt="Buy me a coffee at ko-fi" height="50" width="210"></a>
-</p>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L0ADBNS)
