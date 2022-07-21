@@ -2,8 +2,9 @@
 
 # Hey! 👋 I'm Toasty :) #
 
-### Used languages 🌐
+### Used languages / frameworks 🌐
 [<img src="/icons/javascript.png" alt="Javascript" height="50" />](https://en.wikipedia.org/wiki/JavaScript)
+[<img src="/icons/typescript.png" alt="TypeScript" height="50" />](https://en.wikipedia.org/wiki/TypeScript)
 [<img src="/icons/node-js.png" alt="Node.js" height="50" />](https://nodejs.org/en/about/)
 [<img src="/icons/csharp.png" alt="CSharp" height="50" />](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 [<img src="/icons/java.png" alt="Swift" height="50" />](https://en.wikipedia.org/wiki/Java_(programming_language))
