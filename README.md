@@ -37,26 +37,25 @@ var Developer = new {
         Language.Html,        
         ALittleBitOf.Swift,
         Database.MsSql,
+        Tools.Git,
     ],
     
-    CurrentFocus = Apprenticeship.Graduate,
+    CurrentFocus = [Framework.React, Language.TypeScript]
     
     DoneProjects = [
         Project.Discord_ServerStats_Bot,
         Project.Discord_Bot_Template,
-        Project.Discord_Bot_CovidStatistics
     ],
     CurrentlyLearning = [
-        Language.Cpp,
+        Framework.React,
+        Language.TypeScript,
         Language.Swift,
     ],
     WantToLearn = [
         Language.Python,
-        Language.TypeScript,
         GameDevelopment.Unity,
-        Framework.React,
         Framework.Angular,
-        Tools.Git.Advanced,
+        Language.Cpp,
     ]
 }
 ```
