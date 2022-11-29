@@ -27,7 +27,7 @@
 var Developer = new {
     Name = "Marcel",
     Alias = "Toasty",
-    Age = 22,
+    Age = 23,
     Location = Country.Germany,
     
     Skills = [
@@ -41,21 +41,22 @@ var Developer = new {
         Tools.Git,
     ],
     
-    CurrentFocus = [Framework.React, Language.TypeScript]
+    CurrentFocus = [Life, Career, Reading],
     
     DoneProjects = [
         Project.Discord_ServerStats_Bot,
         Project.Discord_Bot_Template,
     ],
+    
     CurrentlyLearning = [
-        Framework.React,
-        Language.TypeScript,
-        Language.Swift,
+        "Enjoying Life",
     ],
+    
     WantToLearn = [
+        Language.Swift,
+        Framework.SwiftUI
         Language.Python,
         GameDevelopment.Unity,
-        Framework.Angular,
         Language.Cpp,
     ]
 }
@@ -79,9 +80,5 @@ var Developer = new {
 # Get in touch 💬 #
 <p align="center">
     <a href="https://stackoverflow.com/users/13685706/toasty?tab=profile"><img src="/icons/stack-overflow.png" alt="StackOverflow Profile" height="50" /></a>
-    <a href="https://discord.gg/d73MzMYgK6"><img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="Discord" height="50" /></a>
     <a href="mailto:toasty65.dev@gmail.com"><img src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/64/000000/external-email-interface-kiranshastry-lineal-kiranshastry.png" alt="Email" height="50" /></a>
 </p>
-
-# Support #
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L0ADBNS)
