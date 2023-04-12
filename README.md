@@ -49,7 +49,7 @@ var Developer = new {
     ],
     
     CurrentlyLearning = [
-        "Enjoying Life",
+        Language.JavaScript.React
     ],
     
     WantToLearn = [
