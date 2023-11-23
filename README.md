@@ -3,12 +3,13 @@
 # Hey! 👋 I'm Toasty :) #
 
 ### Used languages / frameworks 🌐
-[<img src="/icons/javascript.png" alt="Javascript" height="50" />](https://en.wikipedia.org/wiki/JavaScript)
+<!--[<img src="/icons/javascript.png" alt="Javascript" height="50" />](https://en.wikipedia.org/wiki/JavaScript)
 [<img src="/icons/typescript.png" alt="TypeScript" height="50" />](https://en.wikipedia.org/wiki/TypeScript)
-[<img src="/icons/node-js.png" alt="Node.js" height="50" />](https://nodejs.org/en/about/)
+[<img src="/icons/node-js.png" alt="Node.js" height="50" />](https://nodejs.org/en/about/) -->
 [<img src="/icons/csharp.png" alt="CSharp" height="50" />](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
-[<img src="/icons/java.png" alt="Swift" height="50" />](https://en.wikipedia.org/wiki/Java_(programming_language))
-[<img src="/icons/swift.png" alt="Java" height="50" />](https://developer.apple.com/swift/)
+[<img src="/icons/swift.png" alt="Java" height="50" />](https://developer.apple.com/swift/) 
+<!-- [<img src="/icons/java.png" alt="Swift" height="50" />](https://en.wikipedia.org/wiki/Java_(programming_language)) -->
+
 
 ### Used tools 🛠️
 
@@ -17,9 +18,9 @@
 [<img src="/icons/Xcode_icon.png" alt="Xcode" height="50" />](https://developer.apple.com/xcode/)
 [<img src="/icons/git.png" alt="Git" height="50" />](https://git-scm.com/about)
 [<img src="/icons/github.png" alt="GitHub" height="50" />](https://github.com/)
-[<img src="/icons/gitkraken.png" alt="GitKraken" height="50" />](https://www.gitkraken.com/)
 [<img src="/icons/stack-overflow.png" alt="StackOverflow" height="50" />](https://stackoverflow.com/)
-[<img src="/icons/docker.png" alt="Docker" height="50" />](https://www.docker.com/)
+<!-- [<img src="/icons/gitkraken.png" alt="GitKraken" height="50" />](https://www.gitkraken.com/) -->
+<!-- [<img src="/icons/docker.png" alt="Docker" height="50" />](https://www.docker.com/) -->
 
 # About me 👨‍💻 #
 
@@ -27,46 +28,37 @@
 var Developer = new {
     Name = "Marcel",
     Alias = "Toasty",
-    Age = 23,
+    Age = 24,
     Location = Country.Germany,
     
     Skills = [
         Language.Csharp,
         Language.Javascript,
         Language.Java,
-        Language.Nodejs,
+        Runtime.Nodejs,
         Language.Html,        
-        ALittleBitOf.Swift,
         Database.MsSql,
         Tools.Git,
     ],
-    
-    CurrentFocus = [Life, Career, Reading],
-    
+
+    CurrentlyLearning = [
+        Language.Swift,
+        Framework.SwiftUI,
+        Framework.UIKit
+    ],
+
     DoneProjects = [
         Project.Discord_ServerStats_Bot,
         Project.Discord_Bot_Template,
     ],
-    
-    CurrentlyLearning = [
-        Language.JavaScript.React
-    ],
-    
-    WantToLearn = [
-        Language.Swift,
-        Framework.SwiftUI
-        Language.Python,
-        GameDevelopment.Unity,
-        Language.Cpp,
-    ]
 }
 ```
 
 # 📊 Statistics & Trophies 🏆 #
 
-<p align="center">
+<!-- <p align="center">
   <img  src="https://activity-graph.herokuapp.com/graph?username=toasty65&theme=react-dark&hide_border=true&hide_title=false" alt="Activity graph" />
-</p>
+</p> -->
 <p align="center">
   <img width="49%" src="https://github-profile-trophy.vercel.app/?username=toasty65&theme=onestar&no-frame=true&margin-w=50&row=2&column=3"  alt="Trophies" />
   <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=toasty65&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streaks" />
@@ -75,10 +67,4 @@ var Developer = new {
 <p align="center">
 <img width="54%" height="100%" src="https://github-readme-stats.vercel.app/api?username=Toasty65&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 <img width="44%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="Most used languages" height="195px;" />
-</p>
-
-# Get in touch 💬 #
-<p align="center">
-    <a href="https://stackoverflow.com/users/13685706/toasty?tab=profile"><img src="/icons/stack-overflow.png" alt="StackOverflow Profile" height="50" /></a>
-    <a href="mailto:toasty65.dev@gmail.com"><img src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/64/000000/external-email-interface-kiranshastry-lineal-kiranshastry.png" alt="Email" height="50" /></a>
 </p>
