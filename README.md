@@ -25,13 +25,13 @@
 # About me 👨‍💻 #
 
 ```csharp
-var Developer = new {
+var Developer = new() {
     Name = "Marcel",
     Alias = "Toasty",
     Age = 24,
     Location = Country.Germany,
     
-    Skills = [
+    Skills = new[] {
         Language.Csharp,
         Language.Javascript,
         Language.Java,
@@ -39,18 +39,18 @@ var Developer = new {
         Language.Html,        
         Database.MsSql,
         Tools.Git,
-    ],
+    },
 
-    CurrentlyLearning = [
+    CurrentlyLearning = new[] {
         Language.Swift,
         Framework.SwiftUI,
         Framework.UIKit
-    ],
+    },
 
-    DoneProjects = [
+    DoneProjects = new[] {
         Project.Discord_ServerStats_Bot,
         Project.Discord_Bot_Template,
-    ],
+    },
 }
 ```
 
@@ -60,11 +60,11 @@ var Developer = new {
   <img  src="https://activity-graph.herokuapp.com/graph?username=toasty65&theme=react-dark&hide_border=true&hide_title=false" alt="Activity graph" />
 </p> -->
 <p align="center">
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=toasty65&theme=onestar&no-frame=true&margin-w=50&row=2&column=3"  alt="Trophies" />
-  <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=toasty65&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streaks" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=toastyy1&theme=onestar&no-frame=true&margin-w=50&row=2&column=3"  alt="Trophies" />
+  <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=toastyy1&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streaks" />
 </p>
 
 <p align="center">
-<img width="54%" height="100%" src="https://github-readme-stats.vercel.app/api?username=Toasty65&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-<img width="44%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="Most used languages" height="195px;" />
+<img width="54%" height="100%" src="https://github-readme-stats.vercel.app/api?username=toastyy1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img width="44%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toastyy1&layout=compact&theme=tokyonight" alt="Most used languages" height="195px;" />
 </p>
