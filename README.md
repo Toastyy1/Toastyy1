@@ -25,10 +25,9 @@
 # About me 👨‍💻 #
 
 ```csharp
-var Developer = new() {
+Developer toasty = new() {
     Name = "Marcel",
     Alias = "Toasty",
-    Age = 24,
     Location = Country.Germany,
     
     Skills = new[] {
